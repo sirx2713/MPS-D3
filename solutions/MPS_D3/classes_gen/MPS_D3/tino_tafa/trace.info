@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root nodeRef="r:3769e7aa-b7a4-4644-831d-9945fc4a53b4(MPS_D3.tino_tafa)/800018550491709568">
+    <file name="Tinotenda.java">
+      <node id="800018550491709781" at="7,42,8,73" concept="0" />
+      <node id="800018550491709625" at="7,0,10,0" concept="1" trace="main#([Ljava/lang/String;)V" />
+      <scope id="800018550491709631" at="7,42,8,73" />
+      <scope id="800018550491709625" at="7,0,10,0">
+        <var name="args" id="800018550491709626" />
+      </scope>
+      <unit id="800018550491709568" at="6,0,11,0" name="MPS_D3.tino_tafa.Tinotenda" />
+    </file>
+  </root>
+</debug-info>
+
